@@ -18,10 +18,14 @@ A complete healthcare ecosystem with **three interconnected apps** designed for 
 - **Local Authentication** (Biometrics, Face Recognition)
 
 ### 📌 Features
-✔ Real-time doctor-patient-lab connectivity  
-✔ Secure authentication (biometrics & face recognition)  
-✔ Automated appointment notifications  
-✔ PDF generation for patient reports  
+✔ ****Effortless Scheduling**** – Manage appointments with ease, reducing wait times and improving patient satisfaction.  
+✔ ****Comprehensive Patient Visits**** – Document complaints, diagnoses, and prescriptions in one place for efficient patient care.  
+✔ ****Real-time Lab Orders & Results**** – Order lab tests, receive instant results, and prescribe treatments with precision.  
+✔ ****Telemedicine**** – Connect with patients remotely, ensuring accessible healthcare wherever they are.  
+✔ ****Billing & Payment Management**** – Handle invoices, payments, and track balances effortlessly.  
+✔ ****Secure Patient Portals**** – Provide patients with secure access to their medical records, bills, and communication.  
+✔ ****Customizable Dashboards**** – Use powerful reporting tools to make data-driven decisions.  
+✔ ****Data Security & Compliance**** – Ensure patient data is secure and fully compliant with healthcare regulations.  
 
 [🔗 View on App Store](https://apps.apple.com/in/developer/drpro-app-llp/id1760718356)  |  [🔗 View on Play Store](https://play.google.com/store/apps/dev?id=7675011358797900623&hl=en) 
 
