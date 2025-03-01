@@ -4,12 +4,32 @@
 
 ## 📱 Projects
 
-### 1️⃣ drPro Clinic  
-🔹 **Description:** A clinic management app for doctors to handle patient cases and prescriptions.  
-🔹 **Technologies:** Flutter, Firebase, REST API  
-🔹 **Key Features:** Appointment booking, case tracking, and real-time chat.  
+### 🩺 drPro Health Ecosystem
+
+A complete healthcare ecosystem with **three interconnected apps** designed for **clinics, patients, and laboratories**. These apps enhance medical workflows, improve patient engagement, and streamline lab operations. Available on **iOS, Android, and Web**.
+
+### 🚀 Apps in the Ecosystem
+1️⃣ **drPro Clinic** – Manages patient cases, appointments, and prescriptions.  
+2️⃣ **drPro Patient** – Enables appointment booking, report access, and health tracking.  
+3️⃣ **drPro Lab** – Automates lab report generation and connects labs with doctors & patients.  
+
+### 🔧 Technologies Used
+- **Flutter** (iOS, Android, Web)
+- **REST APIs** (Dio, HTTP)
+- **Push Notifications** (Appointment Reminders)
+- **PDF Report Generation** (Patient Reports)
+- **Local Authentication** (Biometrics, Face Recognition)
+
+### 📌 Features
+✔ Real-time doctor-patient-lab connectivity  
+✔ Secure authentication (biometrics & face recognition)  
+✔ Automated appointment notifications  
+✔ PDF generation for patient reports  
 
 [🔗 View on App Store](https://apps.apple.com/in/developer/drpro-app-llp/id1760718356)  |  [🔗 View on Play Store](https://play.google.com/store/apps/dev?id=7675011358797900623&hl=en) 
+
+
+
 
 ### 2️⃣ LoomMate  
 🔹 **Description:** A business management app for textile business owners.  
