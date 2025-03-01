@@ -1,10 +1,7 @@
-# Home Product Project Portfolio
+# Home Product 📱 Project Portfolio
 👋 Hi, I'm Mihir, a Flutter Developer with 2+ years of experience building high-performance, scalable, and user-friendly mobile apps.
 
-
-## 📱 Projects
-
-### 🩺 drPro Health Ecosystem
+## 🩺 drPro Health Ecosystem
 
 A complete healthcare ecosystem with **three interconnected apps** designed for **clinics, patients, and laboratories**. These apps enhance medical workflows, improve patient engagement, and streamline lab operations. Available on **iOS, Android, and Web**.
 
@@ -31,7 +28,7 @@ A complete healthcare ecosystem with **three interconnected apps** designed for 
 
 
 
-### 2️⃣ LoomMate  
+## 2️⃣ LoomMate  
 🔹 **Description:** A business management app for textile business owners.  
 🔹 **Technologies:** Flutter, Firebase, Provider  
 🔹 **Key Features:** Staff management, production tracking, and automated invoicing.  
