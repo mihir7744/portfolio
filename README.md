@@ -9,7 +9,7 @@
 🔹 **Technologies:** Flutter, Firebase, REST API  
 🔹 **Key Features:** Appointment booking, case tracking, and real-time chat.  
 
-[🔗 View Project](#) (Add App Store/Play Store link if available)
+[🔗 View on App Store](https://apps.apple.com/in/developer/drpro-app-llp/id1760718356) [🔗 View on Play Store](https://play.google.com/store/apps/dev?id=7675011358797900623&hl=en) 
 
 ### 2️⃣ LoomMate  
 🔹 **Description:** A business management app for textile business owners.  
